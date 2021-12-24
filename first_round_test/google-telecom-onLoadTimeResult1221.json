@@ -1,0 +1,266 @@
+[
+    {
+        "pageUrl": "author-welcome.nature.com-41598",
+        "exeTime": "2021-12-21T110713+0800",
+        "pageLoadTimeForEveryCycle": [
+            5323,
+            9686,
+            9480,
+            4426,
+            4860
+        ],
+        "meanLoadTime": 6755
+    },
+    {
+        "pageUrl": "link.springer.com-article-10.1007-s41095-021-0242-8",
+        "exeTime": "2021-12-21T113733+0800",
+        "pageLoadTimeForEveryCycle": [
+            2460,
+            2477,
+            2454,
+            2435,
+            2444
+        ],
+        "meanLoadTime": 2454
+    },
+    {
+        "pageUrl": "link.springer.com-chapter-10.1007-978-3-030-82420-4_4",
+        "exeTime": "2021-12-21T105414+0800",
+        "pageLoadTimeForEveryCycle": [
+            2753,
+            2765,
+            2658,
+            2647,
+            2692
+        ],
+        "meanLoadTime": 2703
+    },
+    {
+        "pageUrl": "link.springer.com-content-pdf-10.1007-s41095-021-0242-8.pdf",
+        "exeTime": "2021-12-21T113905+0800",
+        "pageLoadTimeForEveryCycle": [
+            1165,
+            1161,
+            1166,
+            1206,
+            1161
+        ],
+        "meanLoadTime": 1171.8
+    },
+    {
+        "pageUrl": "link.springer.com-search-query-0a5d1007",
+        "exeTime": "2021-12-21T111746+0800",
+        "pageLoadTimeForEveryCycle": [
+            3735,
+            3777,
+            34297,
+            34305,
+            48670
+        ],
+        "meanLoadTime": 24956.8
+    },
+    {
+        "pageUrl": "link.springer.com-search-query-77485102",
+        "exeTime": "2021-12-21T113323+0800",
+        "pageLoadTimeForEveryCycle": [
+            33674,
+            33134,
+            33134,
+            33131,
+            33180
+        ],
+        "meanLoadTime": 33250.6
+    },
+    {
+        "pageUrl": "link.springer.com",
+        "exeTime": "2021-12-21T111606+0800",
+        "pageLoadTimeForEveryCycle": [
+            3703,
+            3678,
+            3553,
+            3610,
+            3552
+        ],
+        "meanLoadTime": 3619.2
+    },
+    {
+        "pageUrl": "mts-nature.nature.com-cgi-bin-main.plex",
+        "exeTime": "2021-12-21T112110+0800",
+        "pageLoadTimeForEveryCycle": [
+            24322,
+            24326,
+            3749,
+            3475,
+            8130
+        ],
+        "meanLoadTime": 12800.4
+    },
+    {
+        "pageUrl": "mts-srep.nature.com-cgi-bin-main.plex-query-1d19ac86",
+        "exeTime": "2021-12-21T112950+0800",
+        "pageLoadTimeForEveryCycle": [
+            20830,
+            20753,
+            20782,
+            14704,
+            16405
+        ],
+        "meanLoadTime": 18694.8
+    },
+    {
+        "pageUrl": "mts-srep.nature.com-cgi-bin-main.plex-query-737b3f14",
+        "exeTime": "2021-12-21T112631+0800",
+        "pageLoadTimeForEveryCycle": [
+            20985,
+            20788,
+            20820,
+            20813,
+            20792
+        ],
+        "meanLoadTime": 20839.6
+    },
+    {
+        "pageUrl": "mts-srep.nature.com-cgi-bin-main.plex",
+        "exeTime": "2021-12-21T112336+0800",
+        "pageLoadTimeForEveryCycle": [
+            1427,
+            1402,
+            19350,
+            21009,
+            20795
+        ],
+        "meanLoadTime": 12796.6
+    },
+    {
+        "pageUrl": "order-payment.springer.com-payment-query-a502e968",
+        "exeTime": "2021-12-21T110235+0800",
+        "pageLoadTimeForEveryCycle": [
+            2491,
+            2334,
+            2339,
+            2421,
+            2363
+        ],
+        "meanLoadTime": 2389.6
+    },
+    {
+        "pageUrl": "order.springer.com-public-login",
+        "exeTime": "2021-12-21T105546+0800",
+        "pageLoadTimeForEveryCycle": [
+            61578,
+            61809,
+            75355,
+            53921,
+            75434
+        ],
+        "meanLoadTime": 65619.4
+    },
+    {
+        "pageUrl": "pathogeneticsjournal.biomedcentral.com-articles-10.1186-1755-8417-1-1",
+        "exeTime": "2021-12-21T104932+0800",
+        "pageLoadTimeForEveryCycle": [
+            23445,
+            23255,
+            22916,
+            22898,
+            22904
+        ],
+        "meanLoadTime": 23083.6
+    },
+    {
+        "pageUrl": "pathogeneticsjournal.biomedcentral.com-track-pdf-10.1186-1755-8417-1-1.pdf",
+        "exeTime": "2021-12-21T105249+0800",
+        "pageLoadTimeForEveryCycle": [
+            795,
+            800,
+            817,
+            804,
+            796
+        ],
+        "meanLoadTime": 802.4
+    },
+    {
+        "pageUrl": "submission.nature.com-new-submission-41598-3",
+        "exeTime": "2021-12-21T110908+0800",
+        "pageLoadTimeForEveryCycle": [
+            17857,
+            72337,
+            6914,
+            7495,
+            75897
+        ],
+        "meanLoadTime": 36100
+    },
+    {
+        "pageUrl": "submission.nature.com-submission-97b2d542-cae2-4455-a95a-0ad500a8fa58-upload-files",
+        "exeTime": "2021-12-21T111329+0800",
+        "pageLoadTimeForEveryCycle": [
+            20375,
+            20723,
+            11849,
+            15304,
+            8063
+        ],
+        "meanLoadTime": 15262.8
+    },
+    {
+        "pageUrl": "www.biomedcentral.com-search-query-5ae208c6",
+        "exeTime": "2021-12-21T104618+0800",
+        "pageLoadTimeForEveryCycle": [
+            23067,
+            22607,
+            22567,
+            22585,
+            22567
+        ],
+        "meanLoadTime": 22678.6
+    },
+    {
+        "pageUrl": "www.biomedcentral.com-search-query-c321b545",
+        "exeTime": "2021-12-21T104304+0800",
+        "pageLoadTimeForEveryCycle": [
+            23089,
+            22589,
+            22596,
+            22594,
+            22596
+        ],
+        "meanLoadTime": 22692.8
+    },
+    {
+        "pageUrl": "www.biomedcentral.com",
+        "exeTime": "2021-12-21T103946+0800",
+        "pageLoadTimeForEveryCycle": [
+            22613,
+            22588,
+            22580,
+            22741,
+            22593
+        ],
+        "meanLoadTime": 22623
+    },
+    {
+        "pageUrl": "www.nature.com-search-query-a6727ee2",
+        "exeTime": "2021-12-21T110541+0800",
+        "pageLoadTimeForEveryCycle": [
+            2787,
+            2797,
+            2782,
+            2817,
+            2771
+        ],
+        "meanLoadTime": 2790.8
+    },
+    {
+        "pageUrl": "www.nature.com",
+        "exeTime": "2021-12-21T110407+0800",
+        "pageLoadTimeForEveryCycle": [
+            3023,
+            3075,
+            2985,
+            3037,
+            3011
+        ],
+        "meanLoadTime": 3026.2
+    }
+]
